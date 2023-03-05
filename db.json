@@ -6,7 +6,8 @@
       "type": "Earrings",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/E/JE07603-1YP6P0_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/E/JE07603-1YP6P0_7_lar.jpg",
-      "price": "38075"
+      "price": "38075",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "type": "Rings",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/R/JR03126-WGP900_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/R/JR03126-WGP900_7_lar.jpg",
-      "price": "64513"
+      "price": "64513",
+      "pv":"₹50,000 - ₹1,00,000"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "type": "Rings",
       "image1": "https://cdn.caratlane.com/media/catalog/product/U/R/UR00473-PT0000_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/U/R/UR00473-PT0000_7_lar.jpg",
-      "price": "40022"
+      "price": "40022",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "type": "Rings",
       "image1": "https://cdn.caratlane.com/media/catalog/product/U/R/UR00214-YG0000_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/U/R/UR00214-YG0000_7_lar.jpg",
-      "price": "48060"
+      "price": "48060",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "type": "Earrings",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/E/JE07601-1YP6P0_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/E/JE07601-1YP6P0_7_lar.jpg",
-      "price": "126796"
+      "price": "126796",
+      "pv":"Over ₹1,00,000"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "type": "Necklaces",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04408-1YP6P0_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04408-1YP6P0_6_lar.jpg",
-      "price": "94835"
+      "price": "94835",
+      "pv":"₹50,000 - ₹1,00,000"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "type": "Rings",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/R/JR07311-1YP6P0_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/R/JR07311-1YP6P0_7_lar.jpg",
-      "price": "35176"
+      "price": "35176",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "type": "Pendants",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/P/JP03871-YGP900_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/P/JP03871-YGP900_7_lar.jpg",
-      "price": "49361"
+      "price": "49361",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "type": "Earrings",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/E/JE06891-1YP600_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/E/JE06891-1YP600_7_lar.jpg",
-      "price": "40963"
+      "price": "40963",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "type": "Necklaces",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/L/JL03574-1RP900_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/L/JL03574-1RP900_7_lar.jpg",
-      "price": "15996"
+      "price": "15996",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "type": "Necklaces",
       "image1": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00630-1Y00P0_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00630-1Y00P0_7_lar.jpg",
-      "price": "14965"
+      "price": "14965",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "type": "Bracelets",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/T/JT00307-YGP600_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/T/JT00307-YGP600_7_lar.jpg",
-      "price": "72161"
+      "price": "72161",
+      "pv":"₹50,000 - ₹1,00,000"
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "type": "Pendants",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/P/JP04893-1YP900_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/P/JP04893-1YP900_7_lar.jpg",
-      "price": "6074"
+      "price": "6074",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "type": "Pendants",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/P/JP02441-YGP9NV_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/P/JP02441-YGP9NV_7_lar.jpg",
-      "price": "18972 "
+      "price": "18972 ",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "type": "Necklaces",
       "image1": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00338-YG00P0_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/U/L/UL00338-YG00P0_6_lar.jpg",
-      "price": "14900"
+      "price": "14900",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "type": "Mangalsutra",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00296-RGP600_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00296-RGP600_7_lar.jpg",
-      "price": "40637"
+      "price": "40637",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 17,
@@ -134,7 +150,8 @@
       "type": "Bracelets",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/T/JT00361-YGP600_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/T/JT00361-YGP600_7_lar.jpg",
-      "price": "79917"
+      "price": "79917",
+      "pv":"₹50,000 - ₹1,00,000"
     },
     {
       "id": 18,
@@ -142,7 +159,8 @@
       "type": "Mangalsutra",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00289-RGP600_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00289-RGP600_7_lar.jpg",
-      "price": "40727"
+      "price": "40727",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 19,
@@ -150,7 +168,8 @@
       "type": "Bracelets",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01573-1YP6P0_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01573-1YP6P0_7_lar.jpg",
-      "price": "137033"
+      "price": "137033",
+      "pv":"Over ₹1,00,000"
     },
     {
       "id": 20,
@@ -158,7 +177,8 @@
       "type": "Bracelets",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/T/JT00312-YGP900_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/T/JT00312-YGP900_7_lar.jpg",
-      "price": "54720"
+      "price": "54720",
+      "pv":"₹50,000 - ₹1,00,000"
     },
     {
       "id": 21,
@@ -166,7 +186,8 @@
       "type": "Mangalsutra",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00298-YGP600_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00298-YGP600_7_lar.jpg",
-      "price": "42554"
+      "price": "42554",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 22,
@@ -174,7 +195,8 @@
       "type": "Mangalsutra",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/S/JS01058-1YP900_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/S/JS01058-1YP900_7_lar.jpg",
-      "price": "29889"
+      "price": "29889",
+      "pv":"Under ₹50,000"
     },
     {
       "id": 23,
@@ -182,7 +204,8 @@
       "type": "Mangalsutra",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00492-YGP600_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00492-YGP600_7_lar.jpg",
-      "price": "50711"
+      "price": "50711",
+      "pv":"₹50,000 - ₹1,00,000"
     },
     {
       "id": 24,
@@ -190,7 +213,8 @@
       "type": "Mangalsutra",
       "image1": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00302-YGP900_1_lar.jpg",
       "image2": "https://cdn.caratlane.com/media/catalog/product/J/S/JS00302-YGP900_7_lar.jpg",
-      "price": "36474"
+      "price": "36474",
+      "pv":"Under ₹50,000"
     }
   ], "cart": [
     {
